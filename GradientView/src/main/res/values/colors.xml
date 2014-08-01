@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--<color name="gradient_start">#003D6A</color>-->
+    <color name="gradient_start">#003D6A</color>
 
-    <color name="gradient_start">#00A1CE</color>
+    <!--<color name="gradient_start">#00A1CE</color>-->
 
     <color name="gradient_end">#000000</color>
 </resources>
