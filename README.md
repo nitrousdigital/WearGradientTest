@@ -12,3 +12,6 @@ The purpose of this project is to share the code so that we can either report a 
 
 See a photo of the problem here:
 https://raw.githubusercontent.com/nitrousdigital/WearGradientTest/master/doc/example.jpg
+
+Please vote/comment on the android issue here:
+https://code.google.com/p/android/issues/detail?id=74374
